@@ -1,0 +1,4 @@
+This is a basic location tracker that uses your GPS to track your location and draw a path for where you have travelled.
+It also has the added flexibility of stopping your location tracker whenever you want and also has an additional option that lets the
+user share their used path with other users via sharing tools.
+This app was created using Java in Android Studio. This was a part of my Mobile App Development Class second assignment.
